@@ -1,6 +1,9 @@
+## Intro
 This program can be used to calculate grades for classes with a variety of different 
 grading schemes. It accepts specially formatted .txt files or can be used exclusively 
-with user input. Classes are separated into sections(like Homework, Quizzes, Exams)
+with user input. 
+## How it works
+Classes are separated into sections(like Homework, Quizzes, Exams)
 and in a file each section takes up a single line. The name of the section is first,
 followed by the percentage of the class grade it constitutes, then the number of
 assignments, and then each grade in the section. Each value is followed by a comma.
